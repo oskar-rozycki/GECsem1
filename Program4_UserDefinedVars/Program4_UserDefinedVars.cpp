@@ -7,7 +7,7 @@ int main()
 
     enum CarMake
     {
-        FORD,
+        FORD = 1,
         FIAT,
         TESLA,
         VW,
